@@ -1,3 +1,3 @@
 user/bin/env ruby
 
-print "42"
+print "42\n"
